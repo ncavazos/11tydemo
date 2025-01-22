@@ -1,5 +1,5 @@
 module.exports = {
-    name: "Code Stitch Web Designs",
+    name: "International Semiotic Institute",
     email: "help@codestitch.app",
     phoneForTel: "555-779-4407",
     phoneFormatted: "(555) 779-4407",
@@ -9,7 +9,7 @@ module.exports = {
         city: "Denver",
         state: "CO",
         zip: "80206",
-        country: "US",
+        country: "CZ",
         mapLink: "https://goo.gl/maps/UAQn4vuGDiwv7DV39",
     },
     socials: {
